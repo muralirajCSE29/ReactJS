@@ -1,0 +1,88 @@
+.h1cards
+{
+    text-align: center;
+}
+
+.h2cards
+{
+    text-align: center;
+    font-size: 16px;
+}
+
+.div1cards
+{
+    height: 60vh;
+    width: 26vw;
+    background-color: white;
+    margin-left: 300px;
+    border-top: 7px solid red;
+    border-radius: 10px;
+    
+}
+
+.div2cards
+{
+    height: 60vh;
+    width: 26vw;
+    background-color: white;
+    margin-left: 400px;
+    border-top: 7px solid red;
+    border-radius: 10px;
+    margin-top: -300px;
+}
+
+.div3cards
+{
+    height: 60vh;
+    width: 26vw;
+    background-color: white;
+    border-top: 7px solid red;
+    border-radius: 10px;
+    margin-top: 20px;
+    
+}
+
+.div4cards
+{
+    height: 60vh;
+    width: 26vw;
+    background-color:white;
+    margin-left: 400px;
+    margin-top: -310px;
+    border-top: 7px solid red;
+    border-radius: 10px;
+    
+}
+
+.h2html
+{
+    font-size: 13px;
+}
+
+.imghtml
+{
+    height: 100px;
+    width: 100px;
+    margin-left: 190px;
+}
+
+.imgcss
+{
+    height: 100px;
+    width: 80px;
+    margin-left: 190px;
+}
+
+.imgjs
+{
+    height: 100px;
+    width: 80px;
+    margin-left: 200px;
+}
+
+.imgmysql
+{
+    height: 90px;
+    width: 90px;
+    margin-left: 200px;
+}

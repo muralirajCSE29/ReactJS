@@ -1,0 +1,46 @@
+.congbimg
+{
+    background-image: url("cong1mg.jpg");
+    height: 90vh;
+    width: 70vw;
+    margin-top: 0;
+    margin-left: 150px;
+    
+    
+}
+
+.h1con
+{
+    text-align: center;
+    position: relative;
+    margin-top: 50px; 
+    
+}
+
+.div1con
+{
+    background-color: aqua;
+    height: 90%;
+    width: 70%;
+    margin-left: 150px;
+}
+
+.mainimg
+{
+    margin-left: 240px;
+    margin-top: 50px; 
+    
+}
+
+.h2con
+{
+    text-align: center;
+}
+
+.mainimg1
+{
+    margin-left: 250px;
+    margin-top: 5px; 
+    height: 14vh;
+    
+}

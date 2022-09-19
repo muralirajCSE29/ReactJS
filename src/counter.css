@@ -1,0 +1,57 @@
+.bgdiv1
+{
+    background-color: orange;
+    height: 1000px;
+    width: 100vw;
+    position: fixed;
+}
+
+.bgdiv2
+{
+    background-color: white;
+    height: 1000px;
+    width: 50vw;
+    margin-left: 310px;
+    margin-top: 70px;
+    border-radius: 20px;
+    position: none;
+}
+
+.h1
+{
+    text-align: center;
+    color: black;
+}
+
+.manimg
+{
+    height: 50vh;
+    width: 20vw;
+    margin-top: 40px;
+}
+
+.banimg
+{
+    height: 37vh;
+    width: 17vw;
+    margin-top: 85px;
+    margin-left: 90px;
+    margin-bottom: 30px;
+}
+
+.btn1
+{
+    margin-left: 80px;
+    font-size: 15px;
+    border-radius: 14px;
+    background-color: rgb(153, 153, 250);
+    
+}
+
+.btn2
+{
+    margin-left: 240px;
+    font-size: 15px;
+    border-radius: 14px;
+    background-color: rgb(153, 153, 250); 
+}

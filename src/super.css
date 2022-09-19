@@ -1,0 +1,32 @@
+.divsuper
+{
+    background-color: black;
+    height: 80vh;
+    width: 50vw;
+    margin-left: 270px;
+    margin-top: 60px;
+    position: fixed;
+}
+
+.h1rcb
+{
+    text-align: center;
+    color: white;
+    margin-top: 60px;
+}
+
+.rcbimg
+{
+    height: 30vh;
+    width: 10vw;
+    margin-left: 140px;
+    margin-top: 20px;
+}
+
+.cskimg
+{
+    height: 35vh;
+    width: 12vw; 
+    margin-left:30px;
+    margin-bottom: -10px;
+}
